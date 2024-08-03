@@ -2,18 +2,13 @@
 
 Name:Poornachandra S Gowda
 
-
 Company:CODETECH IT SOLUTIONS
-
 
 ID:CT08DS5217
 
-
 Domain:JAVA PROGRAMMING
 
-
 Duration:JULY to AUGUST 2024
-
 
 Mentor:Muzammil Ahmed
 
