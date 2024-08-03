@@ -12,6 +12,8 @@ Duration:JULY to AUGUST 2024
 
 Mentor:Muzammil Ahmed
 
+
+
 OVERVIEW OF THE PROJECT
 
 **Project Name:** Simple Calculator in Java
